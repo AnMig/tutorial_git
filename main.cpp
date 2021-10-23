@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Nuevo comentario
 int main ()
 {
 	int divisor, dividend, quotient, remaider;
