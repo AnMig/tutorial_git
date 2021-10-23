@@ -2,6 +2,7 @@
 using namespace std;
 
 // Nuevo comentario
+// Otro comentario más
 int main ()
 {
 	int divisor, dividend, quotient, remaider;
